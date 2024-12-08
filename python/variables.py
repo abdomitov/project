@@ -66,6 +66,7 @@ my-var = "John"
 my var = "John"
 '''
 
+
 # multi word variables have common 3 types of techniques
 # Camel Case
 myVariableName = "John"
